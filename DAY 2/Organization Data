@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Lists Ordered Vs UNordered-->
+    <h2>Ordered List</h2>
+    <ol>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ol>
+    <!--order list -->
+    <!--Symbol - Bullet Points -->
+    <!--used when - Order is critical-->
+    <!--think of : Recipe / instauctions manully-->
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+    </ul>
+    <!--Unorder list -->
+    <!--Symbol - Bullet Points -->
+    <!--used when - Order Doesn't matter-->
+    <!--think of : Grocery list / to do list-->
+
+    <!--Nested Lists-->
+    <h2>Nested Lists</h2>
+    <ul>
+        <li>Fruits
+            <ul>
+                <li>Apple</li>
+                <li>Banana</li>
+                <li>Orange</li>
+            </ul>
+        </li>
+        <li>Vegetables
+            <ul>
+                <li>Carrot</li>
+                <li>Broccoli</li>
+                <li>Spinach</li>
+            </ul>
+        </li>
+    </ul>
+    <!--Common Used Cases -->
+    <!--Navigation Menus -->
+    <!--Detailed Outline -->
+    <!--Catogeries content-->
+
+</body>
+</html>
