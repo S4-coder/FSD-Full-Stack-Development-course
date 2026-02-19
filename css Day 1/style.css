@@ -1,0 +1,21 @@
+h1{
+    /* property : value;*/
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    background-color: rgb(48, 168, 156);
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+a{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 20px;
+    border: 0.5px solid rgb(0, 0, 0);
+    padding: 20px;
+}
